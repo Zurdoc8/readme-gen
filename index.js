@@ -71,7 +71,7 @@ const questions =[
         type: "list",
         name: "license",
         message: "What License did you used for this project?",
-        choices: ['GNU', 'MIT', 'Open', 'ISC', 'MPL-2.0', 'Apache'],
+        choices: ['GNU', 'MIT', 'Open', 'ISC', 'Mozilla', 'Apache'],
     },
 ]
 

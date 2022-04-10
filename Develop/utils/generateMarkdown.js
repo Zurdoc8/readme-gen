@@ -43,39 +43,39 @@ function generateMarkdown(data) {
 
   ## Table of Contents:
   - [ About ](#about)
-  - [Built with](#builtwith)
+  - [Builtwith](#builtwith)
   - [Install](#Install)
   - [Walkthrough](#walkthrough)
   - [Contributions](#contributions)
   - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions) 
-  - [Credits](#Credits)
+  - [Credits](#credits)
 
   ## About
-  ${data.projectAbout}
+  > ${data.projectAbout}
 
-  ## Built with
-  ${data.techUsed}
+  ## Builtwith
+  - ${data.techUsed}
 
   ## Install
-  ${data.howToInstall}
+  > ${data.howToInstall}
 
   ## Walkthrough
-  ${data.walkThrough}
+  > ${data.walkThrough}
 
   ## Contributions
-  ${data.contGuidelines}
+  - ${data.contGuidelines}
 
   ## Tests
-  ${data.test}
+  - ${data.test}
 
   ${section}
   ${badge}
-  ${link}
+  - ${link}
 
   ## Questions
-  For questions you may reach me at [email](mailto:${data.email})
+  - For questions you may reach me at [email](mailto:${data.email})
 
   ## Credits
   - ${data.github} [Go to My GitHub](https://github.com/${data.github})

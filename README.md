@@ -53,6 +53,6 @@
   - For questions you may reach me at [email](mailto:garelan@gmail.com)
 
   ## Credits
-  - Zurdoc* [Go to My GitHub](https://github.com/Zurdoc*)
+  - Zurdoc8 [Go to My GitHub](https://github.com/Zurdoc8)
 
   
